@@ -27,9 +27,21 @@
 
 一个热爱编程，热爱运动，热爱烹饪的程序员，专业是「嵌入式软件与移动信息」。
 
-自媒体人（公众号「**程序员联盟**」（微信号：ProgrammerLeague ）），慕课网签约讲师 ( 最近的慕课网课程有： [带你开发类似Pokemon Go的AR游戏](http://www.imooc.com/learn/844) )。
+自媒体人（公众号「**程序员联盟**」（微信号：ProgrammerLeague ）），慕课网精英讲师（慕课网的「Oscar老师」）。
 
-擅长领域：「嵌入式，Android，C，Java，C++，Python，Unity 3D，Linux，macOS，Windows，自媒体，写作，网站制作」，等等。
+![](http://upload-images.jianshu.io/upload_images/1783214-398e2f32c81454d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+最近的慕课网课程有：
+
+* [实战课程《基于Python玩转人工智能最火框架 TensorFlow应用实践》](https://coding.imooc.com/class/176.html)
+
+![基于Python玩转人工智能最火框架TensorFlow应用实践 - 2018 年 2 月 1 日截图](http://upload-images.jianshu.io/upload_images/1783214-4bc23082877a0956.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+*  [免费课程《带你开发类似Pokemon Go的AR游戏》](http://www.imooc.com/learn/844) 
+
+![带你开发类似Pokemon Go的AR游戏 - 2018 年 1 月 29 日截图](http://upload-images.jianshu.io/upload_images/1783214-88013775df717a55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+擅长领域：「嵌入式，Android，C，Java，C++，Python，TensorFlow，人工智能，机器学习，深度学习，Unity 3D，Linux，macOS，Windows，自媒体，写作，网站制作」，等等。
 
 >在家的编程环境：2015 年产的 MacBook Pro 13 寸（ 512 GB SSD 硬盘，8GB 内存，i5 处理器），一台装有 Win 7 和 Ubuntu 双系统的 Thinkpad 电脑 （备用）。
 
